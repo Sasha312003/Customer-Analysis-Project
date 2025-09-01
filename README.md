@@ -24,15 +24,25 @@
 ## Структура проекту
 Customer_Analysis_Project/
 │
+
 ├─ README.md
+
 ├─ data/ ← приклад даних для відтворення проекту
+
 │ └─ sample_data.csv
+
 ├─ Tableau/
+
 │ └─ Customer_Analysis.twbx
+
 ├─ SQL/
+
 │ └─ queries.sql
+
 ├─ Python/
+
 │ └─ revenue_analysis.ipynb
+
 
 
 ## SQL-запити
